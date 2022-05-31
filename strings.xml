@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CryptoTrack</string>
+    <string name="logo_name">CryptoTrack</string>
+
+    <string name="menu_home">Я отслеживаю</string>
+    <string name="menu_search">Все монеты</string>
+    <string name="menu_converter">Конвертация</string>
+    <string name="menu_settings">Настройки</string>
+
+    <string name="article_price_strike_through"><strike>$%.2f</strike></string>
+    <string name="article_price">$%.2f</string>
+
+    <string name="cart_text_sum">Итого</string>
+    <string name="cart_text_discount">скидка</string>
+    <string name="cart_text_price">сумма заказа</string>
+    <string name="login_header">Логин</string>
+    <string name="login_enter_problem">Проблемы со входом?</string>
+    <string name="login_enter_btn">Войти</string>
+    <string name="login_register_link">Зарегистрируйтесь, чтобы войти</string>
+    <string name="login_rememberMe">Запомнить меня?</string>
+    <string name="login_field_username">username</string>
+    <string name="login_field_password">password</string>
+    <string name="item_cart_shopName">Магазин:</string>
+</resources>

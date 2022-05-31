@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_menu"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.cryptotrack.ui.fragments.HomeFragment"
+        android:label="HomeFragment">
+
+        <action
+        android:id="@+id/toCoinDetailsFragment"
+        app:destination="@id/coinDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/coinDetailsFragment"
+        android:name="com.example.cryptotrack.ui.fragments.CoinDetailsFragment"
+        android:label="CoinDetailsFragment" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.cryptotrack.ui.fragments.ProfileFragment"
+        android:label="ProfileFragment" />
+</navigation>

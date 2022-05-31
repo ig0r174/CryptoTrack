@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="btn_rounded_corners">16dp</dimen>
+    <dimen name="cardView_image_radius">6dp</dimen>
+    <dimen name="item_coin_image_size">44dp</dimen>
+    <dimen name="item_coin_image_margin">10dp</dimen>
+    <dimen name="fragment_padding">20dp</dimen>
+    <dimen name="title_margin">40dp</dimen>
+    <dimen name="design_bottom_navigation_size" tools:override="true">24dp</dimen>
+    <dimen name="corner_radius">22dp</dimen>
+    <dimen name="elevation">0dp</dimen>
+    <dimen name="contentPadding">18dp</dimen>
+    <dimen name="stroke_width">1dp</dimen>
+    <dimen name="title_size">22sp</dimen>
+    <dimen name="details_logo">60dp</dimen>
+</resources>

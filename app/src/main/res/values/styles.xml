@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Toolbar.Title">
+        <item name="android:textSize">
+            28sp
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+
+    <style name="Coins.H1" >
+        <item name="android:textSize">
+            16sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+    </style>
+
+    <style name="Coins.Name" >
+        <item name="android:textSize">
+            22sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+    </style>
+
+    <style name="Coins.H2" >
+        <item name="android:textSize">
+            14sp
+        </item>
+        <item name="android:textColor">
+            @color/app_greyscale_placeholder
+        </item>
+    </style>
+    <style name="Coins.H3" >
+        <item name="android:textSize">
+            16sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+    <style name="Coins.H3.Light" >
+        <item name="android:textColor">
+            @color/app_greyscale_line
+        </item>
+    </style>
+
+
+    <style name="Coin.PercentPlus" >
+        <item name="android:textSize">
+            12sp
+        </item>
+        <item name="android:textColor">
+            @color/crypto_plus
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+
+
+    <style name="Coin.PercentMinus" >
+        <item name="android:textSize">
+            12sp
+        </item>
+        <item name="android:textColor">
+            @color/crypto_minus
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+
+    <style name="Counter.Main">
+        <item name="android:textSize">
+            16sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+
+    <style name="CartEnd.Price">
+        <item name="android:textSize">
+            16sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+    </style>
+    <style name="CartEnd.Discount">
+        <item name="android:textSize">
+            16sp
+        </item>
+        <item name="android:textColor">
+            @color/app_greyscale_body
+        </item>
+    </style>
+    <style name="CartEnd.Sum">
+        <item name="android:textSize">
+            24sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+
+    <style name="Login.Main">
+        <item name="android:textSize">
+            42sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+    <style name="Login.Header">
+        <item name="android:textSize">
+            24sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+    <style name="Login.RememberMe">
+        <item name="android:textSize">
+            20sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+    <style name="Login.Problems">
+        <item name="android:textSize">
+            18sp
+        </item>
+        <item name="android:textColor">
+            @color/app_newblack
+        </item>
+        <item name="android:textStyle">
+            bold
+        </item>
+    </style>
+
+
+    <style name="Counter"></style>
+    <style name="Coins"></style>
+    <style name="Toolbar"></style>
+    <style name="CartEnd"></style>
+    <style name="Login"></style>
+
+    <style name="Coin"></style>
+</resources>

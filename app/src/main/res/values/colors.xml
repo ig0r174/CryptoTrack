@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="nav_menu_default_color">#4E4B66</color>
+    <color name="nav_menu_active_color">#6308F7</color>
+    <color name="app_newblack">#14142B</color>
+    <color name="app_greyscale_placeholder">#A0A3BD</color>
+    <color name="app_greyscale_line">#D9DBE9</color>
+    <color name="app_greyscale_label">#6E7191</color>
+    <color name="app_greyscale_input">#EFF0F6</color>
+    <color name="app_greyscale_body">#4E4B66</color>
+    <color name="app_greyscale_background">#F7F7FC</color>
+    <color name="app_chilli_600">#E50000</color>
+    <color name="app_chilli_700">#CC0000</color>
+
+
+    <color name="toolbar_color">#14142B</color>
+    <color name="card_background">#fff</color>
+    <color name="stroke_color">#EFF0F6</color>
+    <color name="background">#F7F7FC</color>
+    <color name="toolbar_scrolled_background">#D9DBE9</color>
+    <color name="crypto_plus">#FF00CC67</color>
+    <color name="crypto_minus">#FFE40173</color>
+
+</resources>
