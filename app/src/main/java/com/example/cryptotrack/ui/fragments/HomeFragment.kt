@@ -16,6 +16,7 @@ import com.example.cryptotrack.viewmodels.HomeViewModel
 import com.google.android.flexbox.*
 import com.example.cryptotrack.ui.adapters.CoinAdapter
 import com.example.cryptotrack.ui.adapters.CoinClickListener
+import com.example.cryptotrack.R
 
 class HomeFragment : Fragment(
     R.layout.fragment_home

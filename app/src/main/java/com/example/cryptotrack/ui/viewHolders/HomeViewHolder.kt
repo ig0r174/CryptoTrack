@@ -1,6 +1,8 @@
 package com.example.cryptotrack.ui.viewHolders
 
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
+import com.bumptech.glide.request.RequestOptions
 import com.example.domain.model.CoinModel
 import com.example.cryptotrack.R
 import com.example.cryptotrack.databinding.ItemArticleBinding
@@ -35,7 +37,7 @@ class HomeViewHolder(
             }
 
             tariffsCard.setOnClickListener {
-                Log.e("click", listener.toString())
+                //Log.e("click", listener.toString())
                 listener?.onClick(coinItem);
             }
 
